@@ -1,2 +1,2 @@
 # gizligaleri
-Açık kaynaklı gizli galeri uygulaması
+Android için Açık kaynaklı gizli galeri uygulaması
